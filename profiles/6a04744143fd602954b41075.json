@@ -59,11 +59,11 @@
       },
       "Health": {
         "Hydration": {
-          "Current": 64,
+          "Current": 100,
           "Maximum": 100
         },
         "Energy": {
-          "Current": 84,
+          "Current": 100,
           "Maximum": 100
         },
         "Temperature": {
@@ -114,7 +114,7 @@
             }
           }
         },
-        "UpdateTime": 1778744807
+        "UpdateTime": 1778773274
       },
       "Inventory": {
         "items": [
@@ -663,13 +663,8 @@
           {
             "_id": "6a0474f043fd602954b411ee",
             "_tpl": "59984ab886f7743e98271174",
-            "parentId": "5fe4977574f15b4ad31b66b6",
-            "slotId": "hideout",
-            "location": {
-              "x": 8,
-              "y": 9,
-              "r": "Vertical"
-            },
+            "parentId": "6a0474f043fd602954b4115e",
+            "slotId": "FirstPrimaryWeapon",
             "upd": {
               "Repairable": {
                 "Durability": 100,
@@ -1229,13 +1224,8 @@
           {
             "_id": "6a0576e31897ac11d4cac203",
             "_tpl": "5b432b2f5acfc4771e1c6622",
-            "parentId": "5fe4977574f15b4ad31b66b6",
-            "slotId": "hideout",
-            "location": {
-              "x": 8,
-              "y": 7,
-              "r": "Horizontal"
-            },
+            "parentId": "6a0474f043fd602954b4115e",
+            "slotId": "FaceCover",
             "upd": {
               "StackObjectsCount": 1,
               "Repairable": {
@@ -1415,6 +1405,43 @@
           {
             "_id": "5fe4977574f15b4ad31b66b7",
             "_tpl": "5963866286f7747bf429b572"
+          },
+          {
+            "_id": "6a05ed1aa9b84b156cfecfe6",
+            "_tpl": "544fb45d4bdc2dee738b4568",
+            "parentId": "5fe4977574f15b4ad31b66b6",
+            "slotId": "hideout",
+            "location": {
+              "x": 6,
+              "y": 0,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          },
+          {
+            "_id": "6a05ed1aa9b84b156cfecfe7",
+            "_tpl": "5d02778e86f774203e7dedbe",
+            "parentId": "6a0474f043fd602954b4117f",
+            "slotId": "SpecialSlot2",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          },
+          {
+            "_id": "6a05ed1aa9b84b156cfecfe8",
+            "_tpl": "6034d0230ca681766b6a0fb5",
+            "parentId": "5fe4977574f15b4ad31b66b6",
+            "slotId": "hideout",
+            "location": {
+              "x": 2,
+              "y": 9,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1
+            }
           }
         ],
         "equipment": "6a0474f043fd602954b4115e",
@@ -4458,7 +4485,7 @@
         "HideoutCounters": null,
         "Seed": "28c04eec44138ce454d4a741f8d78df0",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1778745027,
+        "sptUpdateLastRunTimestamp": 1778778947,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -5338,7 +5365,7 @@
       "WishList": {},
       "Variables": {},
       "moneyTransferLimitData": {
-        "nextResetTime": 1728492674,
+        "nextResetTime": 1728665474,
         "remainingLimit": 1000000,
         "totalLimit": 1000000,
         "resetInterval": 86400
@@ -8084,7 +8111,7 @@
     },
     "54cb50c76803fa8b248b4571": {
       "attachmentsNew": 0,
-      "new": 1,
+      "new": 0,
       "type": 2,
       "pinned": false,
       "messages": [
@@ -8220,6 +8247,21 @@
             "time": "07:46",
             "location": "sandbox"
           }
+        },
+        {
+          "_id": "6a05ed1aa9b84b156cfecfe5",
+          "uid": "54cb50c76803fa8b248b4571",
+          "type": 13,
+          "dt": 1778773274,
+          "templateId": "5fd4c8b59e4b2a58b34bbd28 0",
+          "text": "",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "64b996c9d0de4697180359b6",
+            "data": []
+          },
+          "maxStorageTime": 172800
         }
       ],
       "_id": "54cb50c76803fa8b248b4571"
@@ -8247,6 +8289,11 @@
       {
         "giftId": "MechanicGiftDay1",
         "timestampLastAccepted": 1778678388,
+        "current": 1
+      },
+      {
+        "giftId": "PraporGiftDay1",
+        "timestampLastAccepted": 1778773274,
         "current": 1
       }
     ],
@@ -9373,31 +9420,9 @@
   "btrDelivery": [],
   "traderPurchases": {
     "54cb50c76803fa8b248b4571": {},
-    "5ac3b934156ae10c4430e83c": {
-      "686e34066c2a18ed6b0e8801": {
-        "count": 1,
-        "purchaseTimestamp": 1778743155
-      }
-    },
+    "5ac3b934156ae10c4430e83c": {},
     "58330581ace78e27b8b10cee": {},
-    "54cb57776803fa99248b456e": {
-      "686e34726c2a18ed6b0eb4ba": {
-        "count": 1,
-        "purchaseTimestamp": 1778743454
-      },
-      "686e34706c2a18ed6b0eb3f4": {
-        "count": 1,
-        "purchaseTimestamp": 1778743434
-      },
-      "686e34706c2a18ed6b0eb3fa": {
-        "count": 1,
-        "purchaseTimestamp": 1778743457
-      },
-      "686e34706c2a18ed6b0eb403": {
-        "count": 1,
-        "purchaseTimestamp": 1778743460
-      }
-    }
+    "54cb57776803fa99248b456e": {}
   },
   "friends": [
     "6a04742e43fd602954b41073"
