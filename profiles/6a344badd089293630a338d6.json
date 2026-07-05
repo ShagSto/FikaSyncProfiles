@@ -59,11 +59,11 @@
       },
       "Health": {
         "Hydration": {
-          "Current": 75,
+          "Current": 100,
           "Maximum": 100
         },
         "Energy": {
-          "Current": 95,
+          "Current": 100,
           "Maximum": 100
         },
         "Temperature": {
@@ -115,7 +115,7 @@
             }
           }
         },
-        "UpdateTime": 1783166832
+        "UpdateTime": 1783241602
       },
       "Inventory": {
         "items": [
@@ -7962,7 +7962,7 @@
         "HideoutCounters": null,
         "Seed": "0ec5220ba78a902c8bf1acf8d3daeb95",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1783168624,
+        "sptUpdateLastRunTimestamp": 1783242349,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -8082,36 +8082,6 @@
             "658471e481d440d61cb18548",
             "658471e0e482af3e0bd16b0c"
           ],
-          "availableAfter": 0
-        },
-        {
-          "qid": "6a44da7ce914ef4b544926fd",
-          "startTime": 0,
-          "status": 1,
-          "statusTimers": {
-            "1": 1782897545.462
-          },
-          "completedConditions": [],
-          "availableAfter": 0
-        },
-        {
-          "qid": "6a44da7ce914ef4b5449270a",
-          "startTime": 0,
-          "status": 1,
-          "statusTimers": {
-            "1": 1782897545.462
-          },
-          "completedConditions": [],
-          "availableAfter": 0
-        },
-        {
-          "qid": "6a44da7ce914ef4b54492715",
-          "startTime": 0,
-          "status": 1,
-          "statusTimers": {
-            "1": 1782897545.462
-          },
-          "completedConditions": [],
           "availableAfter": 0
         },
         {
@@ -12467,7 +12437,7 @@
     },
     "54cb50c76803fa8b248b4571": {
       "attachmentsNew": 0,
-      "new": 0,
+      "new": 1,
       "type": 2,
       "pinned": false,
       "messages": [
@@ -12741,6 +12711,22 @@
             "time": "12:07",
             "location": "sandbox"
           }
+        },
+        {
+          "_id": "6a4a162119e9392ab8d91a4e",
+          "uid": "54cb50c76803fa8b248b4571",
+          "type": 8,
+          "dt": 1783240225,
+          "templateId": "595f995d86f77476b51172ee 1",
+          "text": "",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {},
+          "systemData": {
+            "date": "04.07.2026",
+            "time": "12:07",
+            "location": "sandbox"
+          }
         }
       ],
       "_id": "54cb50c76803fa8b248b4571"
@@ -12902,70 +12888,10 @@
     "extraRepeatableQuests": {}
   },
   "inraid": {},
-  "insurance": [
-    {
-      "scheduledTime": 1783234733,
-      "traderId": "54cb50c76803fa8b248b4571",
-      "maxStorageTime": 345600,
-      "systemData": {
-        "date": "04.07.2026",
-        "time": "12:07",
-        "location": "sandbox"
-      },
-      "messageType": 8,
-      "messageTemplateId": "58fe0e4586f774728248ca13 1",
-      "items": [
-        {
-          "_id": "6a37c2b19671923ff030ed51",
-          "_tpl": "5aa7d03ae5b5b00016327db5"
-        },
-        {
-          "_id": "6a37c2b19671923ff030ed52",
-          "_tpl": "654a90aff4f81a421b0a7c86",
-          "parentId": "6a37c2b19671923ff030ed51",
-          "slotId": "helmet_top",
-          "upd": {
-            "Repairable": {
-              "Durability": 15,
-              "MaxDurability": 15
-            }
-          }
-        },
-        {
-          "_id": "6a37c2b19671923ff030ed53",
-          "_tpl": "654a91068e1ce698150fd1e2",
-          "parentId": "6a37c2b19671923ff030ed51",
-          "slotId": "helmet_back",
-          "upd": {
-            "Repairable": {
-              "Durability": 14,
-              "MaxDurability": 15
-            }
-          }
-        },
-        {
-          "_id": "6a37c2b19671923ff030ed54",
-          "_tpl": "654a9189bcc67a392b056c79",
-          "parentId": "6a37c2b19671923ff030ed51",
-          "slotId": "helmet_ears",
-          "upd": {
-            "Repairable": {
-              "Durability": 15,
-              "MaxDurability": 15
-            }
-          }
-        }
-      ]
-    }
-  ],
+  "insurance": [],
   "btrDelivery": [],
   "traderPurchases": {
-    "58330581ace78e27b8b10cee": {
-      "686e34126c2a18ed6b0e8ded": {
-        "count": 1,
-        "purchaseTimestamp": 1783168218
-      }
-    },
+    "58330581ace78e27b8b10cee": {},
     "54cb50c76803fa8b248b4571": {},
     "54cb57776803fa99248b456e": {},
     "5ac3b934156ae10c4430e83c": {},
