@@ -59,11 +59,11 @@
       },
       "Health": {
         "Hydration": {
-          "Current": 51,
+          "Current": 100,
           "Maximum": 100
         },
         "Energy": {
-          "Current": 2,
+          "Current": 100,
           "Maximum": 100
         },
         "Temperature": {
@@ -115,7 +115,7 @@
             }
           }
         },
-        "UpdateTime": 1783798509
+        "UpdateTime": 1783842107
       },
       "Inventory": {
         "items": [
@@ -10928,36 +10928,6 @@
           "value": 0,
           "sourceId": "68341846186efa3c5b07f989"
         },
-        "6a4a17e419e9392ab8d91d15": {
-          "id": "6a4a17e419e9392ab8d91d15",
-          "type": "CounterCreator",
-          "value": 1,
-          "sourceId": "6a4a17e419e9392ab8d91d11"
-        },
-        "6a4a17e419e9392ab8d91d20": {
-          "id": "6a4a17e419e9392ab8d91d20",
-          "type": "HandoverItem",
-          "value": 0,
-          "sourceId": "6a4a17e419e9392ab8d91d1e"
-        },
-        "6a4a17e419e9392ab8d91d2e": {
-          "id": "6a4a17e419e9392ab8d91d2e",
-          "type": "CounterCreator",
-          "value": 0,
-          "sourceId": "6a4a17e419e9392ab8d91d29"
-        },
-        "6a4d228134daee5b7cade1ed": {
-          "id": "6a4d228134daee5b7cade1ed",
-          "type": "CounterCreator",
-          "value": 0,
-          "sourceId": "6a4d228134daee5b7cade1e8"
-        },
-        "6a4d228134daee5b7cade1df": {
-          "id": "6a4d228134daee5b7cade1df",
-          "type": "HandoverItem",
-          "value": 0,
-          "sourceId": "6a4d228034daee5b7cade1dd"
-        },
         "6a5288ef2ab50228f0fd9878": {
           "id": "6a5288ef2ab50228f0fd9878",
           "type": "HandoverItem",
@@ -11493,7 +11463,7 @@
         "HideoutCounters": null,
         "Seed": "d9bd765b4603bdfe42d9a64755411258",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1783799937,
+        "sptUpdateLastRunTimestamp": 1783842229,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -11825,38 +11795,6 @@
           "completedConditions": [
             "6863d3312e2b6d5dc1fe82d4"
           ],
-          "availableAfter": 0
-        },
-        {
-          "qid": "6a4d228034daee5b7cade1d0",
-          "startTime": 0,
-          "status": 1,
-          "statusTimers": {
-            "1": 1783440000.7389998
-          },
-          "completedConditions": [],
-          "availableAfter": 0
-        },
-        {
-          "qid": "6a4d228034daee5b7cade1dd",
-          "startTime": 0,
-          "status": 2,
-          "statusTimers": {
-            "1": 1783440000.7389998,
-            "2": 1783440163.4399998
-          },
-          "completedConditions": [],
-          "availableAfter": 0
-        },
-        {
-          "qid": "6a4d228134daee5b7cade1e8",
-          "startTime": 0,
-          "status": 2,
-          "statusTimers": {
-            "1": 1783440000.7389998,
-            "2": 1783440142.8149998
-          },
-          "completedConditions": [],
           "availableAfter": 0
         },
         {
@@ -13218,7 +13156,7 @@
       "WishList": {},
       "Variables": {},
       "moneyTransferLimitData": {
-        "nextResetTime": 1741798274,
+        "nextResetTime": 1741971074,
         "remainingLimit": 1000000,
         "totalLimit": 1000000,
         "resetInterval": 86400
