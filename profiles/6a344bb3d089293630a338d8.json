@@ -115,7 +115,7 @@
             }
           }
         },
-        "UpdateTime": 1784313328
+        "UpdateTime": 1784397855
       },
       "Inventory": {
         "items": [
@@ -11138,24 +11138,6 @@
           "type": "CounterCreator",
           "value": 0,
           "sourceId": "68341846186efa3c5b07f989"
-        },
-        "6a53de6db7039b1f5ca44ee5": {
-          "id": "6a53de6db7039b1f5ca44ee5",
-          "type": "HandoverItem",
-          "value": 0,
-          "sourceId": "6a53de6db7039b1f5ca44ee3"
-        },
-        "6a53de6db7039b1f5ca44eda": {
-          "id": "6a53de6db7039b1f5ca44eda",
-          "type": "CounterCreator",
-          "value": 0,
-          "sourceId": "6a53de6db7039b1f5ca44ed6"
-        },
-        "6a53de6db7039b1f5ca44ef3": {
-          "id": "6a53de6db7039b1f5ca44ef3",
-          "type": "CounterCreator",
-          "value": 0,
-          "sourceId": "6a53de6db7039b1f5ca44eee"
         }
       },
       "InsuredItems": [
@@ -11674,7 +11656,7 @@
         "HideoutCounters": null,
         "Seed": "d9bd765b4603bdfe42d9a64755411258",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1784314989,
+        "sptUpdateLastRunTimestamp": 1784397883,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
