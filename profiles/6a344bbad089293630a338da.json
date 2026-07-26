@@ -63,7 +63,7 @@
           "Maximum": 100
         },
         "Energy": {
-          "Current": 85,
+          "Current": 110,
           "Maximum": 110
         },
         "Temperature": {
@@ -115,7 +115,7 @@
             }
           }
         },
-        "UpdateTime": 1785081315
+        "UpdateTime": 1785082989
       },
       "Inventory": {
         "items": [
@@ -13547,13 +13547,8 @@
           {
             "_id": "6a6521a0be22ab089024f0a8",
             "_tpl": "5c0558060db834001b735271",
-            "parentId": "6613e1cf291a2e76b0026acc",
-            "slotId": "hideout",
-            "location": {
-              "x": 8,
-              "y": 20,
-              "r": "Horizontal"
-            },
+            "parentId": "6a63ce7a8c16cb53fc670d0c",
+            "slotId": "mod_nvg",
             "upd": {
               "Togglable": {
                 "On": false
@@ -13903,11 +13898,11 @@
           {
             "_id": "6a662d1d8b11c11fa04b44f8",
             "_tpl": "6662ea05f6259762c56f3189",
-            "parentId": "6a467a5c0cdd6b394c0cbbe4",
+            "parentId": "6a5cf3ff18e46664a0bbf9d9",
             "slotId": "main",
             "location": {
-              "x": 0,
-              "y": 0,
+              "x": 5,
+              "y": 7,
               "r": "Horizontal"
             },
             "upd": {
@@ -17440,31 +17435,31 @@
             "Progress": 961.8137
           },
           {
-            "PointsEarnedDuringSession": 3.44038534,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1785081289,
             "Id": "Strength",
             "Progress": 954.998047
           },
           {
-            "PointsEarnedDuringSession": 0.466990232,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1785081288,
             "Id": "Vitality",
             "Progress": 520.2154
           },
           {
-            "PointsEarnedDuringSession": 1.30965471,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1785081289,
             "Id": "Health",
             "Progress": 1007.4975
           },
           {
-            "PointsEarnedDuringSession": 0.703560054,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1785081313,
             "Id": "StressResistance",
             "Progress": 442.841064
           },
           {
-            "PointsEarnedDuringSession": 8.78173,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1785081272,
             "Id": "Metabolism",
             "Progress": 1194.45911
@@ -17476,7 +17471,7 @@
             "Progress": 104.257217
           },
           {
-            "PointsEarnedDuringSession": 0.249961466,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1785081313,
             "Id": "Perception",
             "Progress": 926.834961
@@ -17488,13 +17483,13 @@
             "Progress": 63.5
           },
           {
-            "PointsEarnedDuringSession": 0.17368,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1785081282,
             "Id": "Attention",
             "Progress": 823.894836
           },
           {
-            "PointsEarnedDuringSession": 0.1194643,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1785081313,
             "Id": "Charisma",
             "Progress": 741.543762
@@ -17518,7 +17513,7 @@
             "Progress": 284.882751
           },
           {
-            "PointsEarnedDuringSession": 2.11500025,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1785081280,
             "Id": "Assault",
             "Progress": 586.104553
@@ -17578,7 +17573,7 @@
             "Progress": 0
           },
           {
-            "PointsEarnedDuringSession": 0.312,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1785081255,
             "Id": "AimDrills",
             "Progress": 436.142181
@@ -17602,13 +17597,13 @@
             "Progress": 34.2846375
           },
           {
-            "PointsEarnedDuringSession": 0.17264,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1785081282,
             "Id": "Search",
             "Progress": 785.0375
           },
           {
-            "PointsEarnedDuringSession": 0.026,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1785081248,
             "Id": "MagDrills",
             "Progress": 242.00206
@@ -17632,7 +17627,7 @@
             "Progress": 104.986229
           },
           {
-            "PointsEarnedDuringSession": 0.102328308,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1785081251,
             "Id": "HeavyVests",
             "Progress": 83.65092
@@ -23121,7 +23116,7 @@
         "Production": {
           "66827062405f392b203a44cf": {
             "Products": [],
-            "Progress": 22557,
+            "Progress": 24858,
             "inProgress": true,
             "StartTimestamp": 1785059006,
             "SkipTime": 0,
@@ -23738,7 +23733,7 @@
         "HideoutCounters": null,
         "Seed": "313eaaede7d29811071760150fb397f7",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1785081554,
+        "sptUpdateLastRunTimestamp": 1785083855,
         "Customization": {
           "Wall": "675467bb5b7ebafefd0ebc2e",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -25584,7 +25579,7 @@
         "579dc571d53a0658a154fbec": {
           "loyaltyLevel": 1,
           "salesSum": 742595,
-          "standing": 2.4499999995529653,
+          "standing": 2.45,
           "nextResupply": 1631484143,
           "unlocked": true,
           "disabled": false
