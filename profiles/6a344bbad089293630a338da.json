@@ -20,7 +20,7 @@
         "LowerNickname": "larper333",
         "Side": "Usec",
         "Level": 30,
-        "Experience": 1105039,
+        "Experience": 1105049,
         "RegistrationDate": 1781812272,
         "GameVersion": "edge_of_darkness",
         "AccountType": 0,
@@ -116,7 +116,7 @@
             }
           }
         },
-        "UpdateTime": 1785075799
+        "UpdateTime": 1785077904
       },
       "Inventory": {
         "items": [
@@ -11951,7 +11951,7 @@
               "r": "Horizontal"
             },
             "upd": {
-              "StackObjectsCount": 1000000
+              "StackObjectsCount": 977792
             }
           },
           {
@@ -13625,21 +13625,6 @@
             },
             "upd": {
               "StackObjectsCount": 53
-            }
-          },
-          {
-            "_id": "6a65e09b5819ac5b34d4a50c",
-            "_tpl": "5449016a4bdc2d6f028b456f",
-            "parentId": "6613e1cf291a2e76b0026acc",
-            "slotId": "hideout",
-            "location": {
-              "x": 5,
-              "y": 28,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "StackObjectsCount": 135396,
-              "SpawnedInSession": false
             }
           },
           {
@@ -17250,6 +17235,24 @@
                 "NumberOfUsages": 0
               }
             }
+          },
+          {
+            "_id": "6a661e97f2f08c43a48d5056",
+            "_tpl": "5c1e2a1e86f77431ea0ea84c",
+            "parentId": "6a646f350c00ad3c8cfa991b",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 3,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": false,
+              "Key": {
+                "NumberOfUsages": 0
+              }
+            }
           }
         ],
         "equipment": "6a344c30d089293630a34806",
@@ -17328,9 +17331,9 @@
           },
           {
             "PointsEarnedDuringSession": 0,
-            "LastAccess": 1785062474,
+            "LastAccess": 1785077399,
             "Id": "Intellect",
-            "Progress": 63
+            "Progress": 63.5
           },
           {
             "PointsEarnedDuringSession": 0,
@@ -20312,7 +20315,8 @@
         "6582dbf0b8d7830efc45016f": false,
         "5c1d0f4986f7744bb01837fa": false,
         "63a39df18a56922e82001f25": false,
-        "5a144bdb86f7741d374bbde0": false
+        "5a144bdb86f7741d374bbde0": false,
+        "5c1e2a1e86f77431ea0ea84c": false
       },
       "TaskConditionCounters": {
         "65141df0e69594cf853a40b9": {
@@ -22648,7 +22652,7 @@
         "Production": {
           "66827062405f392b203a44cf": {
             "Products": [],
-            "Progress": 17823,
+            "Progress": 19596,
             "inProgress": true,
             "StartTimestamp": 1785059006,
             "SkipTime": 0,
@@ -23265,7 +23269,7 @@
         "HideoutCounters": null,
         "Seed": "313eaaede7d29811071760150fb397f7",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1785076820,
+        "sptUpdateLastRunTimestamp": 1785078593,
         "Customization": {
           "Wall": "675467bb5b7ebafefd0ebc2e",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -27279,7 +27283,7 @@
         "LowerNickname": "",
         "Side": "Savage",
         "Level": 12,
-        "Experience": 94102,
+        "Experience": 94112,
         "RegistrationDate": 1781812272,
         "GameVersion": "edge_of_darkness",
         "AccountType": 0,
@@ -30824,7 +30828,8 @@
         "6582dbf0b8d7830efc45016f": false,
         "5c1d0f4986f7744bb01837fa": false,
         "63a39df18a56922e82001f25": false,
-        "5a144bdb86f7741d374bbde0": false
+        "5a144bdb86f7741d374bbde0": false,
+        "5c1e2a1e86f77431ea0ea84c": false
       },
       "TaskConditionCounters": {
         "65141df0e69594cf853a40b9": {
