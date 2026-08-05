@@ -59,11 +59,11 @@
       },
       "Health": {
         "Hydration": {
-          "Current": 72,
+          "Current": 100,
           "Maximum": 100
         },
         "Energy": {
-          "Current": 39,
+          "Current": 110,
           "Maximum": 110
         },
         "Temperature": {
@@ -115,7 +115,7 @@
             }
           }
         },
-        "UpdateTime": 1785850837
+        "UpdateTime": 1785912426
       },
       "Inventory": {
         "items": [
@@ -2914,11 +2914,11 @@
           {
             "_id": "6a5a1e9c4ad045409405647a",
             "_tpl": "544fb3364bdc2d34748b456a",
-            "parentId": "6613e1cf291a2e76b0026acc",
-            "slotId": "hideout",
+            "parentId": "6a344c30d089293630a3482a",
+            "slotId": "pocket4",
             "location": {
-              "x": 7,
-              "y": 16,
+              "x": 0,
+              "y": 0,
               "r": "Horizontal"
             }
           },
@@ -3029,11 +3029,11 @@
           {
             "_id": "6a59e07906cf8e42ac7a0789",
             "_tpl": "544fb3f34bdc2d03748b456a",
-            "parentId": "6613e1cf291a2e76b0026acc",
-            "slotId": "hideout",
+            "parentId": "6a65d7515819ac5b34d27abe",
+            "slotId": "main",
             "location": {
-              "x": 4,
-              "y": 15,
+              "x": 0,
+              "y": 1,
               "r": "Horizontal"
             }
           },
@@ -3539,13 +3539,9 @@
           {
             "_id": "6a5d018018e46664a0bf7bac",
             "_tpl": "56dff4a2d2720bbd668b456a",
-            "parentId": "6a521ee65ddc203fb4a4e388",
-            "slotId": "main",
-            "location": {
-              "x": 4,
-              "y": 0,
-              "r": "Horizontal"
-            },
+            "parentId": "6a72dd9a67c4132890e9fad9",
+            "slotId": "cartridges",
+            "location": 0,
             "upd": {
               "StackObjectsCount": 30
             }
@@ -4374,11 +4370,11 @@
           {
             "_id": "6a5e6f2cef4c3e3a6c421b5c",
             "_tpl": "5c10c8fd86f7743d7d706df3",
-            "parentId": "6613e1cf291a2e76b0026acc",
-            "slotId": "hideout",
+            "parentId": "6a65d7515819ac5b34d27abe",
+            "slotId": "main",
             "location": {
-              "x": 9,
-              "y": 20,
+              "x": 1,
+              "y": 1,
               "r": "Horizontal"
             },
             "upd": {
@@ -7296,11 +7292,11 @@
           {
             "_id": "6a64e38fae7a984ad0d1e161",
             "_tpl": "544fb3f34bdc2d03748b456a",
-            "parentId": "6613e1cf291a2e76b0026acc",
-            "slotId": "hideout",
+            "parentId": "6a65d7515819ac5b34d27abe",
+            "slotId": "main",
             "location": {
-              "x": 5,
-              "y": 15,
+              "x": 2,
+              "y": 1,
               "r": "Horizontal"
             }
           },
@@ -9155,15 +9151,11 @@
           {
             "_id": "6a6859bf5b614218b42d4c28",
             "_tpl": "56dff026d2720bb8668b4567",
-            "parentId": "6a6b06a78ea11b476cf1f50b",
-            "slotId": "main",
-            "location": {
-              "x": 0,
-              "y": 2,
-              "r": "Horizontal"
-            },
+            "parentId": "6a72dd9a67c4132890e9fada",
+            "slotId": "cartridges",
+            "location": 0,
             "upd": {
-              "StackObjectsCount": 38
+              "StackObjectsCount": 8
             }
           },
           {
@@ -16737,27 +16729,17 @@
             }
           },
           {
-            "_id": "6a7087c63703cd310cc46ca6",
-            "_tpl": "57372ebf2459776862260582",
+            "_id": "6a7087c63703cd310cc46ca7",
+            "_tpl": "56dff3afd2720bba668b4567",
             "parentId": "6613e1cf291a2e76b0026acc",
             "slotId": "hideout",
             "location": {
-              "x": 2,
+              "x": 8,
               "y": 0,
               "r": "Horizontal"
             },
             "upd": {
-              "SpawnedInSession": true
-            }
-          },
-          {
-            "_id": "6a7087c63703cd310cc46ca7",
-            "_tpl": "56dff3afd2720bba668b4567",
-            "parentId": "6a7087c63703cd310cc46ca6",
-            "slotId": "cartridges",
-            "location": 0,
-            "upd": {
-              "StackObjectsCount": 30
+              "StackObjectsCount": 20
             }
           },
           {
@@ -16896,11 +16878,11 @@
           {
             "_id": "6a7087c63703cd310cc46d5b",
             "_tpl": "544fb25a4bdc2dfb738b4567",
-            "parentId": "6613e1cf291a2e76b0026acc",
-            "slotId": "hideout",
+            "parentId": "6a344c30d089293630a3482a",
+            "slotId": "pocket3",
             "location": {
-              "x": 6,
-              "y": 16,
+              "x": 0,
+              "y": 0,
               "r": "Horizontal"
             }
           },
@@ -17565,15 +17547,11 @@
           {
             "_id": "6a708f473703cd310cc68c10",
             "_tpl": "56dff3afd2720bba668b4567",
-            "parentId": "6613e1cf291a2e76b0026acc",
-            "slotId": "hideout",
-            "location": {
-              "x": 8,
-              "y": 0,
-              "r": "Horizontal"
-            },
+            "parentId": "6a72dd9a67c4132890e9fad8",
+            "slotId": "cartridges",
+            "location": 0,
             "upd": {
-              "StackObjectsCount": 42
+              "StackObjectsCount": 30
             }
           },
           {
@@ -17694,7 +17672,7 @@
               "r": "Horizontal"
             },
             "upd": {
-              "StackObjectsCount": 455070,
+              "StackObjectsCount": 272532,
               "SpawnedInSession": false
             }
           },
@@ -20554,11 +20532,11 @@
           {
             "_id": "6a71e7c98f110a5578c82997",
             "_tpl": "5d25a6538abbc306c62e630d",
-            "parentId": "6a705297bb0ab8319c8d11e4",
-            "slotId": "5",
+            "parentId": "6613e1cf291a2e76b0026acc",
+            "slotId": "hideout",
             "location": {
-              "x": 0,
-              "y": 0,
+              "x": 3,
+              "y": 12,
               "r": "Horizontal"
             },
             "upd": {
@@ -20676,8 +20654,13 @@
           {
             "_id": "6a71e7c98f110a5578c82996",
             "_tpl": "5bfea6e90db834001b7347f3",
-            "parentId": "6a344c30d089293630a34806",
-            "slotId": "FirstPrimaryWeapon",
+            "parentId": "6613e1cf291a2e76b0026acc",
+            "slotId": "hideout",
+            "location": {
+              "x": 4,
+              "y": 60,
+              "r": "Horizontal"
+            },
             "upd": {
               "StackObjectsCount": 1,
               "FireMode": {
@@ -20796,11 +20779,11 @@
           {
             "_id": "6a71e8df8f110a5578c848c7",
             "_tpl": "5d25a6538abbc306c62e630d",
-            "parentId": "6a705297bb0ab8319c8d11e4",
-            "slotId": "3",
+            "parentId": "6613e1cf291a2e76b0026acc",
+            "slotId": "hideout",
             "location": {
-              "x": 0,
-              "y": 0,
+              "x": 9,
+              "y": 54,
               "r": "Horizontal"
             },
             "upd": {
@@ -20811,11 +20794,11 @@
           {
             "_id": "6a71e8df8f110a5578c848c8",
             "_tpl": "5d25a6538abbc306c62e630d",
-            "parentId": "6a705297bb0ab8319c8d11e4",
-            "slotId": "4",
+            "parentId": "6613e1cf291a2e76b0026acc",
+            "slotId": "hideout",
             "location": {
-              "x": 0,
-              "y": 0,
+              "x": 8,
+              "y": 54,
               "r": "Horizontal"
             },
             "upd": {
@@ -20826,11 +20809,11 @@
           {
             "_id": "6a71e8df8f110a5578c848c9",
             "_tpl": "5d25a6538abbc306c62e630d",
-            "parentId": "6a705297bb0ab8319c8d11e4",
-            "slotId": "2",
+            "parentId": "6613e1cf291a2e76b0026acc",
+            "slotId": "hideout",
             "location": {
-              "x": 0,
-              "y": 0,
+              "x": 9,
+              "y": 52,
               "r": "Horizontal"
             },
             "upd": {
@@ -20969,6 +20952,345 @@
             "upd": {
               "StackObjectsCount": 10
             }
+          },
+          {
+            "_id": "6a72dd0667c4132890e9f855",
+            "_tpl": "61bf7c024770ee6f9c6b8b53",
+            "parentId": "6613e1cf291a2e76b0026acc",
+            "slotId": "hideout",
+            "location": {
+              "x": 9,
+              "y": 0,
+              "rotation": false,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a71c0f94318e247a0722ffe",
+            "_tpl": "5d4042a986f7743185265463",
+            "parentId": "6613e1cf291a2e76b0026acc",
+            "slotId": "hideout",
+            "location": {
+              "x": 2,
+              "y": 11,
+              "rotation": false,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": false
+            }
+          },
+          {
+            "_id": "6a71c0f94318e247a0722fff",
+            "_tpl": "590c2e1186f77425357b6124",
+            "parentId": "6613e1cf291a2e76b0026acc",
+            "slotId": "hideout",
+            "location": {
+              "x": 0,
+              "y": 22,
+              "rotation": false,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": false
+            }
+          },
+          {
+            "_id": "6a72dd0f67c4132890e9f856",
+            "_tpl": "59e35cbb86f7741778269d83",
+            "parentId": "6613e1cf291a2e76b0026acc",
+            "slotId": "hideout",
+            "location": {
+              "x": 4,
+              "y": 11,
+              "rotation": true,
+              "r": "Vertical"
+            },
+            "upd": {
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a72dd0f67c4132890e9f857",
+            "_tpl": "59e35cbb86f7741778269d83",
+            "parentId": "6613e1cf291a2e76b0026acc",
+            "slotId": "hideout",
+            "location": {
+              "x": 1,
+              "y": 12,
+              "rotation": true,
+              "r": "Vertical"
+            },
+            "upd": {
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a72dc4067c4132890e9f7e4",
+            "_tpl": "649ec107961514b22506b10c",
+            "parentId": "6a72dc4067c4132890e9f7e3",
+            "slotId": "mod_gas_block"
+          },
+          {
+            "_id": "6a72dc4067c4132890e9f7e5",
+            "_tpl": "64c196ad26a15b84aa07132f",
+            "parentId": "6a72dc4067c4132890e9f7e3",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "6a72dc4067c4132890e9f7e6",
+            "_tpl": "6087e663132d4d12c81fd96b",
+            "parentId": "6a72dc4067c4132890e9f7e3",
+            "slotId": "mod_pistol_grip"
+          },
+          {
+            "_id": "6a72dc4067c4132890e9f7e8",
+            "_tpl": "558022b54bdc2dac148b458d",
+            "parentId": "6a72dc4067c4132890e9f7e7",
+            "slotId": "mod_scope",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          },
+          {
+            "_id": "6a72dc4067c4132890e9f7ea",
+            "_tpl": "649ec2cec93611967b03495e",
+            "parentId": "6a72dc4067c4132890e9f7e9",
+            "slotId": "mod_sight_rear",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          },
+          {
+            "_id": "6a72dc4067c4132890e9f7e9",
+            "_tpl": "649ec2da59cbb3c813042dca",
+            "parentId": "6a72dc4067c4132890e9f7e7",
+            "slotId": "mod_sight_rear",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          },
+          {
+            "_id": "6a72dc4067c4132890e9f7e7",
+            "_tpl": "649ec2f3961514b22506b111",
+            "parentId": "6a72dc4067c4132890e9f7e3",
+            "slotId": "mod_reciever"
+          },
+          {
+            "_id": "6a72dc4067c4132890e9f7ec",
+            "_tpl": "6516e971a3d4c6497930b450",
+            "parentId": "6a72dc4067c4132890e9f7eb",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "6a72dc4067c4132890e9f7eb",
+            "_tpl": "649ec87d8007560a9001ab36",
+            "parentId": "6a72dc4067c4132890e9f7e3",
+            "slotId": "mod_stock_001"
+          },
+          {
+            "_id": "6a72dc4067c4132890e9f7ee",
+            "_tpl": "5beecbb80db834001d2c465e",
+            "parentId": "6a72dc4067c4132890e9f7ed",
+            "slotId": "mod_mount_001"
+          },
+          {
+            "_id": "6a72dc4067c4132890e9f7ef",
+            "_tpl": "5b057b4f5acfc4771e1bd3e9",
+            "parentId": "6a72dc4067c4132890e9f7ed",
+            "slotId": "mod_foregrip"
+          },
+          {
+            "_id": "6a72dc4067c4132890e9f7ed",
+            "_tpl": "649ec127c93611967b034957",
+            "parentId": "6a72dc4067c4132890e9f7e3",
+            "slotId": "mod_handguard"
+          },
+          {
+            "_id": "6a72dc4067c4132890e9f7e3",
+            "_tpl": "6499849fc93611967b034949",
+            "parentId": "6a344c30d089293630a34806",
+            "slotId": "FirstPrimaryWeapon",
+            "upd": {
+              "Repairable": {
+                "Durability": 60.72999,
+                "MaxDurability": 69.39
+              },
+              "FireMode": {
+                "FireMode": "fullauto"
+              },
+              "Foldable": {
+                "Folded": false
+              }
+            }
+          },
+          {
+            "_id": "6a72dd9a67c4132890e9fad8",
+            "_tpl": "649ec30cb013f04a700e60fb",
+            "parentId": "6a705297bb0ab8319c8d11e4",
+            "slotId": "1",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              },
+              "SpawnedInSession": false
+            }
+          },
+          {
+            "_id": "6a72dd9a67c4132890e9fad9",
+            "_tpl": "649ec30cb013f04a700e60fb",
+            "parentId": "6a72dc4067c4132890e9f7e3",
+            "slotId": "mod_magazine",
+            "upd": {
+              "StackObjectsCount": 1,
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              },
+              "SpawnedInSession": false
+            }
+          },
+          {
+            "_id": "6a72dd9a67c4132890e9fada",
+            "_tpl": "649ec30cb013f04a700e60fb",
+            "parentId": "6a705297bb0ab8319c8d11e4",
+            "slotId": "3",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              },
+              "SpawnedInSession": false
+            }
+          },
+          {
+            "_id": "6a72dd9a67c4132890e9fadb",
+            "_tpl": "649ec30cb013f04a700e60fb",
+            "parentId": "6a705297bb0ab8319c8d11e4",
+            "slotId": "4",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              },
+              "SpawnedInSession": false
+            }
+          },
+          {
+            "_id": "6a72dda701001d8bc630db75",
+            "_tpl": "56dff026d2720bb8668b4567",
+            "parentId": "6a72dd9a67c4132890e9fadb",
+            "slotId": "cartridges",
+            "location": 0,
+            "upd": {
+              "StackObjectsCount": 30
+            }
+          },
+          {
+            "_id": "6a72dda901001d8bc674eb58",
+            "_tpl": "56dff3afd2720bba668b4567",
+            "parentId": "6a72dd9a67c4132890e9fada",
+            "slotId": "cartridges",
+            "location": 1,
+            "upd": {
+              "StackObjectsCount": 22
+            }
+          },
+          {
+            "_id": "6a72ddf967c4132890e9fadc",
+            "_tpl": "5448fee04bdc2dbc018b4567",
+            "parentId": "6a708f473703cd310cc68c16",
+            "slotId": "main",
+            "location": {
+              "x": 2,
+              "y": 0,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": false
+            }
+          },
+          {
+            "_id": "6a72ddfa67c4132890e9fadd",
+            "_tpl": "5448fee04bdc2dbc018b4567",
+            "parentId": "6a708f473703cd310cc68c16",
+            "slotId": "main",
+            "location": {
+              "x": 3,
+              "y": 0,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": false
+            }
+          },
+          {
+            "_id": "6a72de0067c4132890e9fadf",
+            "_tpl": "590c5d4b86f774784e1b9c45",
+            "parentId": "6a708f473703cd310cc68c16",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 2,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": false
+            }
           }
         ],
         "equipment": "6a344c30d089293630a34806",
@@ -21059,9 +21381,9 @@
           },
           {
             "PointsEarnedDuringSession": 0,
-            "LastAccess": 1785850240,
+            "LastAccess": 1785912992,
             "Id": "Charisma",
-            "Progress": 879.3621755555556
+            "Progress": 879.460008888889
           },
           {
             "PointsEarnedDuringSession": 0,
@@ -21250,10 +21572,10 @@
             "Progress": 200
           },
           {
-            "PointsEarnedDuringSession": 1,
-            "LastAccess": 1785850794,
+            "PointsEarnedDuringSession": 0,
+            "LastAccess": 1785912591,
             "Id": "HideoutManagement",
-            "Progress": 785.999939
+            "Progress": 804.4443902222223
           }
         ],
         "Mastering": [
@@ -26984,12 +27306,6 @@
           "value": 0,
           "sourceId": "666314bafd5ca9577902e03a"
         },
-        "6a70877f3703cd310cc46612": {
-          "id": "6a70877f3703cd310cc46612",
-          "type": "HandoverItem",
-          "value": 2,
-          "sourceId": "6a70877f3703cd310cc46610"
-        },
         "5c139eb686f7747878361a72": {
           "id": "5c139eb686f7747878361a72",
           "type": "HandoverItem",
@@ -27002,23 +27318,17 @@
           "value": 1,
           "sourceId": "5c139eb686f7747878361a6f"
         },
-        "6a70877f3703cd310cc465f3": {
-          "id": "6a70877f3703cd310cc465f3",
-          "type": "HandoverItem",
-          "value": 2,
-          "sourceId": "6a70877f3703cd310cc465f1"
-        },
         "66696cd3997231debad40d19": {
           "id": "66696cd3997231debad40d19",
           "type": "CounterCreator",
           "value": 0,
           "sourceId": "6663149cfd5ca9577902e037"
         },
-        "6a70877f3703cd310cc465e8": {
-          "id": "6a70877f3703cd310cc465e8",
-          "type": "CounterCreator",
-          "value": 0,
-          "sourceId": "6a70877f3703cd310cc465e4"
+        "673f5d6fdd6ed700c703afdc": {
+          "id": "67da01179cbeb8d6f4011961",
+          "type": "CounterCrafting",
+          "value": 26500,
+          "sourceId": "673f5d6fdd6ed700c703afdc"
         },
         "6a71dbe98f110a5578c5b838": {
           "id": "6a71dbe98f110a5578c5b838",
@@ -27301,55 +27611,78 @@
         {
           "tid": "54cb57776803fa99248b456e",
           "itemId": "6a6f1d947132cb5884b72abd"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "6a72dc4067c4132890e9f7e3"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "6a72dd9a67c4132890e9fad8"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "6a72dd9a67c4132890e9fada"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "6a72dd9a67c4132890e9fadb"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "6a72dc4067c4132890e9f7e4"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "6a72dc4067c4132890e9f7e5"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "6a72dc4067c4132890e9f7e6"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "6a72dc4067c4132890e9f7e7"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "6a72dc4067c4132890e9f7eb"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "6a72dd9a67c4132890e9fad9"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "6a72dc4067c4132890e9f7ed"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "6a72dc4067c4132890e9f7e8"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "6a72dc4067c4132890e9f7e9"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "6a72dc4067c4132890e9f7ea"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "6a72dc4067c4132890e9f7ec"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "6a72dc4067c4132890e9f7ee"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "6a72dc4067c4132890e9f7ef"
         }
       ],
       "Hideout": {
-        "Production": {
-          "5dcfe2582f9b3d566c7af977": {
-            "Products": [],
-            "Progress": 11169,
-            "inProgress": true,
-            "StartTimestamp": 1785839811,
-            "SkipTime": 0,
-            "ProductionTime": 11918.5,
-            "GivenItemsInStart": [],
-            "Interrupted": false,
-            "needFuelForAllProductionTime": false,
-            "NeedFuelForAllProductionTime": false,
-            "RecipeId": "5dcfe2582f9b3d566c7af977"
-          },
-          "67da01179cbeb8d6f4011961": {
-            "Products": [],
-            "Progress": 11111,
-            "inProgress": true,
-            "StartTimestamp": 1785839865,
-            "SkipTime": 0,
-            "ProductionTime": 14184,
-            "GivenItemsInStart": [],
-            "Interrupted": false,
-            "needFuelForAllProductionTime": false,
-            "NeedFuelForAllProductionTime": false,
-            "sptRequiredTools": [
-              {
-                "_id": "6a71c0f94318e247a0722ffe",
-                "_tpl": "5d4042a986f7743185265463",
-                "upd": {
-                  "StackObjectsCount": 1,
-                  "SpawnedInSession": false
-                }
-              },
-              {
-                "_id": "6a71c0f94318e247a0722fff",
-                "_tpl": "590c2e1186f77425357b6124",
-                "upd": {
-                  "StackObjectsCount": 1,
-                  "SpawnedInSession": false
-                }
-              }
-            ],
-            "RecipeId": "67da01179cbeb8d6f4011961"
-          }
-        },
+        "Production": {},
         "Areas": [
           {
             "type": 3,
@@ -27383,18 +27716,18 @@
           },
           {
             "type": 2,
-            "level": 1,
+            "level": 2,
             "active": true,
             "passiveBonusesEnabled": true,
-            "completeTime": 1785850554,
-            "constructing": true,
+            "completeTime": 0,
+            "constructing": false,
             "slots": [],
             "lastRecipe": "5dcfe2582f9b3d566c7af977"
           },
           {
             "type": 4,
             "level": 2,
-            "active": true,
+            "active": false,
             "passiveBonusesEnabled": true,
             "completeTime": 0,
             "constructing": false,
@@ -27446,8 +27779,8 @@
                       "StackObjectsCount": 1,
                       "SpawnedInSession": true,
                       "Resource": {
-                        "Value": 9.7271,
-                        "UnitsConsumed": 0.2729
+                        "Value": 0,
+                        "UnitsConsumed": 0
                       }
                     }
                   }
@@ -27462,7 +27795,11 @@
                     "_tpl": "5d1b371186f774253763a656",
                     "upd": {
                       "StackObjectsCount": 1,
-                      "SpawnedInSession": true
+                      "SpawnedInSession": true,
+                      "Resource": {
+                        "Value": 0,
+                        "UnitsConsumed": 0
+                      }
                     }
                   }
                 ]
@@ -27907,7 +28244,7 @@
         "HideoutCounters": null,
         "Seed": "313eaaede7d29811071760150fb397f7",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1785850974,
+        "sptUpdateLastRunTimestamp": 1785913650,
         "Customization": {
           "Wall": "675467bb5b7ebafefd0ebc2e",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -29699,28 +30036,6 @@
           "availableAfter": 0
         },
         {
-          "qid": "6a68be95411c1663285c3049",
-          "startTime": 1785253419,
-          "status": 2,
-          "statusTimers": {
-            "1": 1785249429.161,
-            "2": 1785253419
-          },
-          "completedConditions": [],
-          "availableAfter": 0
-        },
-        {
-          "qid": "6a68be95411c1663285c3049",
-          "startTime": 1785253419,
-          "status": 2,
-          "statusTimers": {
-            "1": 1785249429.161,
-            "2": 1785253419
-          },
-          "completedConditions": [],
-          "availableAfter": 0
-        },
-        {
           "qid": "673f4e956f1b89c7bc0f56ef",
           "startTime": 0,
           "status": 5,
@@ -30095,7 +30410,7 @@
         },
         "54cb57776803fa99248b456e": {
           "loyaltyLevel": 4,
-          "salesSum": 29059875,
+          "salesSum": 29148060,
           "standing": 0.75,
           "nextResupply": 1781821013,
           "unlocked": true,
@@ -31424,6 +31739,192 @@
                 }
               ],
               "changeStandingCost": 0,
+              "questStatus": {
+                "id": "6a72dc8167c4132890e9f849",
+                "uid": "6a344bbad089293630a338da",
+                "qid": "6a72dc8167c4132890e9f848",
+                "startTime": 0,
+                "status": 1,
+                "statusTimers": {}
+              },
+              "_id": "6a72dc8167c4132890e9f848",
+              "canShowNotificationsInGame": true,
+              "conditions": {
+                "AvailableForFinish": [
+                  {
+                    "id": "6a72dc8167c4132890e9f84c",
+                    "index": 0,
+                    "dynamicLocale": true,
+                    "globalQuestCounterId": "",
+                    "visibilityConditions": [],
+                    "parentId": "",
+                    "value": 10,
+                    "type": "Elimination",
+                    "oneSessionOnly": false,
+                    "isResetOnConditionFailed": false,
+                    "isNecessary": false,
+                    "doNotResetIfCounterCompleted": false,
+                    "counter": {
+                      "id": "6a72dc8167c4132890e9f84a",
+                      "conditions": [
+                        {
+                          "id": "6a72dc8167c4132890e9f84b",
+                          "dynamicLocale": true,
+                          "target": "Savage",
+                          "value": 1,
+                          "savageRole": [
+                            "bossKolontay"
+                          ],
+                          "bodyPart": [
+                            "Chest",
+                            "Stomach",
+                            "Head"
+                          ],
+                          "daytime": {
+                            "from": 0,
+                            "to": 0
+                          },
+                          "conditionType": "Kills",
+                          "enemyHealthEffects": [],
+                          "resetOnSessionEnd": false
+                        }
+                      ]
+                    },
+                    "completeInSeconds": 0,
+                    "conditionType": "CounterCreator"
+                  }
+                ],
+                "AvailableForStart": [],
+                "Fail": []
+              },
+              "description": "616052ea3054fc0e2c24ce6e description 5c0647fdd443bc2504c2d371 0",
+              "failMessageText": "616052ea3054fc0e2c24ce6e failMessageText 5c0647fdd443bc2504c2d371 0",
+              "name": "616052ea3054fc0e2c24ce6e name 5c0647fdd443bc2504c2d371",
+              "note": "616052ea3054fc0e2c24ce6e note 5c0647fdd443bc2504c2d371",
+              "traderId": "5c0647fdd443bc2504c2d371",
+              "location": "any",
+              "image": "/files/quest/icon/616d993bc8c5ad2ab30ff6ba.jpg",
+              "type": "Elimination",
+              "isKey": false,
+              "restartable": false,
+              "instantComplete": false,
+              "secretQuest": false,
+              "startedMessageText": "616052ea3054fc0e2c24ce6e startedMessageText 5c0647fdd443bc2504c2d371 0",
+              "successMessageText": "616052ea3054fc0e2c24ce6e successMessageText 5c0647fdd443bc2504c2d371 0",
+              "acceptPlayerMessage": "616052ea3054fc0e2c24ce6e acceptPlayerMessage 5c0647fdd443bc2504c2d371",
+              "acceptanceAndFinishingSource": "eft",
+              "declinePlayerMessage": "616052ea3054fc0e2c24ce6e declinePlayerMessage 5c0647fdd443bc2504c2d371",
+              "completePlayerMessage": "616052ea3054fc0e2c24ce6e completePlayerMessage 5c0647fdd443bc2504c2d371",
+              "templateId": "616052ea3054fc0e2c24ce6e",
+              "rewards": {
+                "Success": [
+                  {
+                    "value": 56881,
+                    "id": "6a72dc8167c4132890e9f84d",
+                    "type": "Experience",
+                    "index": -1,
+                    "unknown": false,
+                    "gameMode": [],
+                    "availableInGameEditions": []
+                  },
+                  {
+                    "value": 263472,
+                    "id": "6a72dc8167c4132890e9f84f",
+                    "type": "Item",
+                    "index": 0,
+                    "target": "6a72dc8167c4132890e9f84e",
+                    "items": [
+                      {
+                        "_id": "6a72dc8167c4132890e9f84e",
+                        "_tpl": "5449016a4bdc2d6f028b456f",
+                        "upd": {
+                          "StackObjectsCount": 263472,
+                          "SpawnedInSession": false
+                        }
+                      }
+                    ],
+                    "isEncoded": false,
+                    "unknown": false,
+                    "findInRaid": false,
+                    "gameMode": [],
+                    "availableInGameEditions": []
+                  },
+                  {
+                    "value": 11,
+                    "id": "6a72dc8167c4132890e9f851",
+                    "type": "Item",
+                    "index": 1,
+                    "target": "6a72dc8167c4132890e9f850",
+                    "items": [
+                      {
+                        "_id": "6a72dc8167c4132890e9f850",
+                        "_tpl": "5d235b4d86f7742e017bc88a",
+                        "upd": {
+                          "StackObjectsCount": 11,
+                          "SpawnedInSession": true
+                        }
+                      }
+                    ],
+                    "isEncoded": false,
+                    "unknown": false,
+                    "findInRaid": true,
+                    "gameMode": [],
+                    "availableInGameEditions": []
+                  },
+                  {
+                    "value": 1,
+                    "id": "6a72dc8167c4132890e9f853",
+                    "type": "Item",
+                    "index": 2,
+                    "target": "6a72dc8167c4132890e9f852",
+                    "items": [
+                      {
+                        "_id": "6a72dc8167c4132890e9f852",
+                        "_tpl": "66572c82ad599021091c6118",
+                        "upd": {
+                          "StackObjectsCount": 1,
+                          "SpawnedInSession": true
+                        }
+                      }
+                    ],
+                    "isEncoded": false,
+                    "unknown": false,
+                    "findInRaid": true,
+                    "gameMode": [],
+                    "availableInGameEditions": []
+                  },
+                  {
+                    "value": 0.02,
+                    "id": "6a72dc8167c4132890e9f854",
+                    "type": "TraderStanding",
+                    "index": 3,
+                    "target": "5c0647fdd443bc2504c2d371",
+                    "unknown": false,
+                    "gameMode": [],
+                    "availableInGameEditions": []
+                  }
+                ],
+                "Started": [],
+                "Fail": []
+              },
+              "status": 0,
+              "changeQuestMessageText": "616052ea3054fc0e2c24ce6e changeQuestMessageText 5c0647fdd443bc2504c2d371 0",
+              "side": "Pmc",
+              "progressSource": "eft",
+              "rankingModes": [],
+              "gameModes": [],
+              "arenaLocations": []
+            }
+          ],
+          "inactiveQuests": [
+            {
+              "changeCost": [
+                {
+                  "templateId": "5449016a4bdc2d6f028b456f",
+                  "count": 5000
+                }
+              ],
+              "changeStandingCost": 0,
               "sptRepatableGroupName": "Weekly",
               "questStatus": {
                 "id": "6a68be95411c1663285c304a",
@@ -31577,196 +32078,9 @@
               "arenaLocations": []
             }
           ],
-          "inactiveQuests": [
-            {
-              "changeCost": [
-                {
-                  "templateId": "5449016a4bdc2d6f028b456f",
-                  "count": 5000
-                }
-              ],
-              "changeStandingCost": 0,
-              "sptRepatableGroupName": "Weekly",
-              "questStatus": {
-                "id": "6a5f8413e301970bd46c7379",
-                "uid": "6a344bbad089293630a338da",
-                "qid": "6a5f8413e301970bd46c7378",
-                "startTime": 0,
-                "status": 1,
-                "statusTimers": {}
-              },
-              "_id": "6a5f8413e301970bd46c7378",
-              "canShowNotificationsInGame": true,
-              "conditions": {
-                "AvailableForFinish": [
-                  {
-                    "id": "6a5f8413e301970bd46c737d",
-                    "index": 0,
-                    "dynamicLocale": true,
-                    "globalQuestCounterId": "",
-                    "visibilityConditions": [],
-                    "parentId": "",
-                    "value": 4,
-                    "type": "Completion",
-                    "oneSessionOnly": false,
-                    "doNotResetIfCounterCompleted": false,
-                    "counter": {
-                      "id": "6a5f8413e301970bd46c737c",
-                      "conditions": [
-                        {
-                          "id": "6a5f8413e301970bd46c737a",
-                          "dynamicLocale": true,
-                          "status": [
-                            "Survived"
-                          ],
-                          "conditionType": "ExitStatus"
-                        },
-                        {
-                          "id": "6a5f8413e301970bd46c737b",
-                          "dynamicLocale": true,
-                          "target": [
-                            "factory4_day",
-                            "factory4_night"
-                          ],
-                          "conditionType": "Location"
-                        },
-                        {
-                          "id": "6a5f8413e301970bd46c737e",
-                          "dynamicLocale": true,
-                          "exitName": "Gate m",
-                          "conditionType": "ExitName"
-                        }
-                      ]
-                    },
-                    "completeInSeconds": 0,
-                    "conditionType": "CounterCreator"
-                  }
-                ],
-                "AvailableForStart": [],
-                "Fail": []
-              },
-              "description": "616041eb031af660100c9967 description 54cb57776803fa99248b456e 0",
-              "failMessageText": "616041eb031af660100c9967 failMessageText 54cb57776803fa99248b456e 0",
-              "name": "616041eb031af660100c9967 name 54cb57776803fa99248b456e",
-              "note": "616041eb031af660100c9967 note 54cb57776803fa99248b456e",
-              "traderId": "54cb57776803fa99248b456e",
-              "location": "55f2d3fd4bdc2d5f408b4567",
-              "image": "/files/quest/icon/616d993bc8c5ad2ab30ff6ba.jpg",
-              "type": "Exploration",
-              "isKey": false,
-              "restartable": false,
-              "instantComplete": false,
-              "secretQuest": false,
-              "startedMessageText": "616041eb031af660100c9967 startedMessageText 54cb57776803fa99248b456e 0",
-              "successMessageText": "616041eb031af660100c9967 successMessageText 54cb57776803fa99248b456e 0",
-              "acceptPlayerMessage": "616041eb031af660100c9967 acceptPlayerMessage 54cb57776803fa99248b456e",
-              "acceptanceAndFinishingSource": "eft",
-              "declinePlayerMessage": "616041eb031af660100c9967 declinePlayerMessage 54cb57776803fa99248b456e",
-              "completePlayerMessage": "616041eb031af660100c9967 completePlayerMessage 54cb57776803fa99248b456e",
-              "templateId": "616041eb031af660100c9967",
-              "rewards": {
-                "Success": [
-                  {
-                    "value": 33616,
-                    "id": "6a5f8413e301970bd46c737f",
-                    "type": "Experience",
-                    "index": -1,
-                    "unknown": false,
-                    "gameMode": [],
-                    "availableInGameEditions": []
-                  },
-                  {
-                    "value": 198780,
-                    "id": "6a5f8413e301970bd46c7381",
-                    "type": "Item",
-                    "index": 0,
-                    "target": "6a5f8413e301970bd46c7380",
-                    "items": [
-                      {
-                        "_id": "6a5f8413e301970bd46c7380",
-                        "_tpl": "5449016a4bdc2d6f028b456f",
-                        "upd": {
-                          "StackObjectsCount": 198780,
-                          "SpawnedInSession": false
-                        }
-                      }
-                    ],
-                    "isEncoded": false,
-                    "unknown": false,
-                    "findInRaid": false,
-                    "gameMode": [],
-                    "availableInGameEditions": []
-                  },
-                  {
-                    "value": 10,
-                    "id": "6a5f8413e301970bd46c7383",
-                    "type": "Item",
-                    "index": 1,
-                    "target": "6a5f8413e301970bd46c7382",
-                    "items": [
-                      {
-                        "_id": "6a5f8413e301970bd46c7382",
-                        "_tpl": "5d235b4d86f7742e017bc88a",
-                        "upd": {
-                          "StackObjectsCount": 10,
-                          "SpawnedInSession": true
-                        }
-                      }
-                    ],
-                    "isEncoded": false,
-                    "unknown": false,
-                    "findInRaid": true,
-                    "gameMode": [],
-                    "availableInGameEditions": []
-                  },
-                  {
-                    "value": 1,
-                    "id": "6a5f8413e301970bd46c7385",
-                    "type": "Item",
-                    "index": 2,
-                    "target": "6a5f8413e301970bd46c7384",
-                    "items": [
-                      {
-                        "_id": "6a5f8413e301970bd46c7384",
-                        "_tpl": "590c657e86f77412b013051d",
-                        "upd": {
-                          "StackObjectsCount": 1,
-                          "SpawnedInSession": true
-                        }
-                      }
-                    ],
-                    "isEncoded": false,
-                    "unknown": false,
-                    "findInRaid": true,
-                    "gameMode": [],
-                    "availableInGameEditions": []
-                  },
-                  {
-                    "value": 0.02,
-                    "id": "6a5f8413e301970bd46c7386",
-                    "type": "TraderStanding",
-                    "index": 3,
-                    "target": "54cb57776803fa99248b456e",
-                    "unknown": false,
-                    "gameMode": [],
-                    "availableInGameEditions": []
-                  }
-                ],
-                "Started": [],
-                "Fail": []
-              },
-              "status": 0,
-              "changeQuestMessageText": "616041eb031af660100c9967 changeQuestMessageText 54cb57776803fa99248b456e 0",
-              "side": "Pmc",
-              "progressSource": "eft",
-              "rankingModes": [],
-              "gameModes": [],
-              "arenaLocations": []
-            }
-          ],
-          "endTime": 1785854229,
+          "endTime": 1786517249,
           "changeRequirement": {
-            "6a68be95411c1663285c3049": {
+            "6a72dc8167c4132890e9f848": {
               "changeCost": [
                 {
                   "templateId": "5449016a4bdc2d6f028b456f",
@@ -32493,6 +32807,14 @@
           "visible": true,
           "value": -3,
           "skillType": 0
+        },
+        {
+          "id": "64f5b9e5fa34f11b380756bc",
+          "type": "RepairArmorBonus",
+          "passive": true,
+          "production": false,
+          "visible": true,
+          "value": 3
         }
       ],
       "Notes": {
@@ -32517,7 +32839,7 @@
       },
       "Variables": {},
       "moneyTransferLimitData": {
-        "nextResetTime": 1785862274,
+        "nextResetTime": 1785948674,
         "remainingLimit": 1000000,
         "totalLimit": 1000000,
         "resetInterval": 86400
@@ -44350,7 +44672,7 @@
       "_id": "54cb50c76803fa8b248b4571"
     },
     "54cb57776803fa99248b456e": {
-      "attachmentsNew": 0,
+      "attachmentsNew": 2,
       "new": 0,
       "type": 2,
       "pinned": true,
@@ -46953,6 +47275,341 @@
             "time": "13:20",
             "location": "bigmap"
           }
+        },
+        {
+          "_id": "6a72dc4067c4132890e9f7e2",
+          "uid": "54cb57776803fa99248b456e",
+          "type": 8,
+          "dt": 1785912384,
+          "templateId": "58fe0e3486f77471f772c3f2 3",
+          "text": "",
+          "hasRewards": true,
+          "rewardCollected": false,
+          "items": {
+            "stash": "6a72dc3f67c4132890e9f7e1",
+            "data": [
+              {
+                "_id": "6a72dc4067c4132890e9f7f0",
+                "_tpl": "67a9e9d04fb4a4a8a00d2826",
+                "parentId": "6a72dc3f67c4132890e9f7e1",
+                "slotId": "main"
+              },
+              {
+                "_id": "6a72dc4067c4132890e9f7f1",
+                "_tpl": "628b9784bcf6e2659e09b8a2",
+                "parentId": "6a72dc3f67c4132890e9f7e1",
+                "slotId": "main"
+              },
+              {
+                "_id": "6a72dc4067c4132890e9f7f2",
+                "_tpl": "656fae5f7c2d57afe200c0d7",
+                "parentId": "6a72dc4067c4132890e9f7f1",
+                "slotId": "Front_plate",
+                "upd": {
+                  "Repairable": {
+                    "Durability": 22.4783916,
+                    "MaxDurability": 40.86255
+                  }
+                }
+              },
+              {
+                "_id": "6a72dc4067c4132890e9f7f3",
+                "_tpl": "656fac30c6baea13cd07e10c",
+                "parentId": "6a72dc4067c4132890e9f7f1",
+                "slotId": "Back_plate",
+                "upd": {
+                  "Repairable": {
+                    "Durability": 31.66677,
+                    "MaxDurability": 32.66677
+                  }
+                }
+              },
+              {
+                "_id": "6a72dc4067c4132890e9f7f4",
+                "_tpl": "6557458f83942d705f0c4962",
+                "parentId": "6a72dc4067c4132890e9f7f1",
+                "slotId": "Left_side_plate",
+                "upd": {
+                  "Repairable": {
+                    "Durability": 0,
+                    "MaxDurability": 13.00069
+                  }
+                }
+              },
+              {
+                "_id": "6a72dc4067c4132890e9f7f5",
+                "_tpl": "6557458f83942d705f0c4962",
+                "parentId": "6a72dc4067c4132890e9f7f1",
+                "slotId": "Right_side_plate",
+                "upd": {
+                  "Repairable": {
+                    "Durability": 6.391835,
+                    "MaxDurability": 10.95488
+                  }
+                }
+              },
+              {
+                "_id": "6a72dc4067c4132890e9f7f6",
+                "_tpl": "5bed61680db834001d2c45ab",
+                "parentId": "6a72dc4067c4132890e9f7f1",
+                "slotId": "1",
+                "location": {
+                  "x": 0,
+                  "y": 0,
+                  "r": "Horizontal"
+                }
+              },
+              {
+                "_id": "6a72dc4067c4132890e9f7f7",
+                "_tpl": "5bed61680db834001d2c45ab",
+                "parentId": "6a72dc4067c4132890e9f7f1",
+                "slotId": "2",
+                "location": {
+                  "x": 0,
+                  "y": 0,
+                  "r": "Horizontal"
+                }
+              },
+              {
+                "_id": "6a72dc4067c4132890e9f7f8",
+                "_tpl": "5bed61680db834001d2c45ab",
+                "parentId": "6a72dc4067c4132890e9f7f1",
+                "slotId": "3",
+                "location": {
+                  "x": 0,
+                  "y": 0,
+                  "r": "Horizontal"
+                }
+              },
+              {
+                "_id": "6a72dc4067c4132890e9f7f9",
+                "_tpl": "649ec30cb013f04a700e60fb",
+                "parentId": "6a72dc4067c4132890e9f7f1",
+                "slotId": "4",
+                "location": {
+                  "x": 0,
+                  "y": 0,
+                  "r": "Horizontal"
+                }
+              },
+              {
+                "_id": "6a72dc4067c4132890e9f7fa",
+                "_tpl": "618cfae774bb2d036a049e7c",
+                "parentId": "6a72dc3f67c4132890e9f7e1",
+                "slotId": "main"
+              },
+              {
+                "_id": "6a72dc4067c4132890e9f7fb",
+                "_tpl": "5645bcc04bdc2d363b8b4572",
+                "parentId": "6a72dc3f67c4132890e9f7e1",
+                "slotId": "main"
+              }
+            ]
+          },
+          "maxStorageTime": 518400,
+          "systemData": {
+            "date": "04.08.2026",
+            "time": "13:02",
+            "location": "bigmap"
+          }
+        },
+        {
+          "_id": "6a72dc4067c4132890e9f7fd",
+          "uid": "54cb57776803fa99248b456e",
+          "type": 8,
+          "dt": 1785912384,
+          "templateId": "58fe0e3486f77471f772c3f2 3",
+          "text": "",
+          "hasRewards": true,
+          "rewardCollected": false,
+          "items": {
+            "stash": "6a72dc4067c4132890e9f7fc",
+            "data": [
+              {
+                "_id": "6a72dc4067c4132890e9f7fe",
+                "_tpl": "588892092459774ac91d4b11",
+                "parentId": "6a72dc4067c4132890e9f7fc",
+                "slotId": "main",
+                "upd": {
+                  "Repairable": {
+                    "Durability": 94.96754,
+                    "MaxDurability": 100
+                  },
+                  "FireMode": {
+                    "FireMode": "single"
+                  },
+                  "Foldable": {
+                    "Folded": false
+                  }
+                }
+              },
+              {
+                "_id": "6a72dc4067c4132890e9f7ff",
+                "_tpl": "5888988e24597752fe43a6fa",
+                "parentId": "6a72dc4067c4132890e9f7fe",
+                "slotId": "mod_magazine"
+              },
+              {
+                "_id": "6a72dc4067c4132890e9f800",
+                "_tpl": "5888945a2459774bf43ba385",
+                "parentId": "6a72dc4067c4132890e9f7fe",
+                "slotId": "mod_barrel"
+              },
+              {
+                "_id": "6a72dc4067c4132890e9f801",
+                "_tpl": "58889c7324597754281f9439",
+                "parentId": "6a72dc4067c4132890e9f800",
+                "slotId": "mod_muzzle"
+              },
+              {
+                "_id": "6a72dc4067c4132890e9f802",
+                "_tpl": "57c55f172459772d27602381",
+                "parentId": "6a72dc4067c4132890e9f7fe",
+                "slotId": "mod_pistol_grip"
+              },
+              {
+                "_id": "6a72dc4067c4132890e9f803",
+                "_tpl": "58889d0c2459775bc215d981",
+                "parentId": "6a72dc4067c4132890e9f7fe",
+                "slotId": "mod_stock"
+              },
+              {
+                "_id": "6a72dc4067c4132890e9f804",
+                "_tpl": "66b6296d7994640992013b17",
+                "parentId": "6a72dc4067c4132890e9f7fc",
+                "slotId": "main"
+              },
+              {
+                "_id": "6a72dc4067c4132890e9f805",
+                "_tpl": "656fa0fb498d1b7e3e071d9c",
+                "parentId": "6a72dc4067c4132890e9f804",
+                "slotId": "Front_plate",
+                "upd": {
+                  "Repairable": {
+                    "Durability": 0,
+                    "MaxDurability": 45
+                  }
+                }
+              },
+              {
+                "_id": "6a72dc4067c4132890e9f806",
+                "_tpl": "656fa0fb498d1b7e3e071d9c",
+                "parentId": "6a72dc4067c4132890e9f804",
+                "slotId": "Back_plate",
+                "upd": {
+                  "Repairable": {
+                    "Durability": 29.2441845,
+                    "MaxDurability": 45
+                  }
+                }
+              },
+              {
+                "_id": "6a72dc4067c4132890e9f807",
+                "_tpl": "66b884f4c5d72b02774886eb",
+                "parentId": "6a72dc4067c4132890e9f804",
+                "slotId": "Soft_armor_front",
+                "upd": {
+                  "Repairable": {
+                    "Durability": 12.5988255,
+                    "MaxDurability": 38
+                  }
+                }
+              },
+              {
+                "_id": "6a72dc4067c4132890e9f808",
+                "_tpl": "66b884eaacff495a29492849",
+                "parentId": "6a72dc4067c4132890e9f804",
+                "slotId": "Soft_armor_back",
+                "upd": {
+                  "Repairable": {
+                    "Durability": 38,
+                    "MaxDurability": 38
+                  }
+                }
+              },
+              {
+                "_id": "6a72dc4067c4132890e9f809",
+                "_tpl": "66b8851678bbc0200425fa03",
+                "parentId": "6a72dc4067c4132890e9f804",
+                "slotId": "Soft_armor_left",
+                "upd": {
+                  "Repairable": {
+                    "Durability": 0,
+                    "MaxDurability": 8
+                  }
+                }
+              },
+              {
+                "_id": "6a72dc4067c4132890e9f80a",
+                "_tpl": "66b88521a7f72d197e70be3b",
+                "parentId": "6a72dc4067c4132890e9f804",
+                "slotId": "soft_armor_right",
+                "upd": {
+                  "Repairable": {
+                    "Durability": 8,
+                    "MaxDurability": 8
+                  }
+                }
+              },
+              {
+                "_id": "6a72dc4067c4132890e9f80b",
+                "_tpl": "66b884fd7994640992013b37",
+                "parentId": "6a72dc4067c4132890e9f804",
+                "slotId": "Groin",
+                "upd": {
+                  "Repairable": {
+                    "Durability": 0,
+                    "MaxDurability": 16
+                  }
+                }
+              },
+              {
+                "_id": "6a72dc4067c4132890e9f80c",
+                "_tpl": "5888988e24597752fe43a6fa",
+                "parentId": "6a72dc4067c4132890e9f804",
+                "slotId": "1",
+                "location": {
+                  "x": 0,
+                  "y": 0,
+                  "r": "Horizontal"
+                }
+              },
+              {
+                "_id": "6a72dc4067c4132890e9f80d",
+                "_tpl": "5888988e24597752fe43a6fa",
+                "parentId": "6a72dc4067c4132890e9f804",
+                "slotId": "1",
+                "location": {
+                  "x": 1,
+                  "y": 0,
+                  "r": "Horizontal"
+                }
+              },
+              {
+                "_id": "6a72dc4067c4132890e9f80e",
+                "_tpl": "5888988e24597752fe43a6fa",
+                "parentId": "6a72dc4067c4132890e9f804",
+                "slotId": "2",
+                "location": {
+                  "x": 0,
+                  "y": 0,
+                  "r": "Horizontal"
+                }
+              },
+              {
+                "_id": "6a72dc4067c4132890e9f80f",
+                "_tpl": "619cf0335771dd3c390269ae",
+                "parentId": "6a72dc4067c4132890e9f7fc",
+                "slotId": "main"
+              }
+            ]
+          },
+          "maxStorageTime": 518400,
+          "systemData": {
+            "date": "04.08.2026",
+            "time": "13:20",
+            "location": "bigmap"
+          }
         }
       ],
       "_id": "54cb57776803fa99248b456e"
@@ -48832,10 +49489,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a6e149b0dfbe12e4c2443a5",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -51284,524 +51938,25 @@
     "extraRepeatableQuests": {}
   },
   "inraid": {},
-  "insurance": [
-    {
-      "scheduledTime": 1785874326,
-      "traderId": "54cb57776803fa99248b456e",
-      "maxStorageTime": 518400,
-      "systemData": {
-        "date": "04.08.2026",
-        "time": "13:02",
-        "location": "bigmap"
-      },
-      "messageType": 8,
-      "messageTemplateId": "58fe0e3486f77471f772c3f2 3",
-      "items": [
-        {
-          "_id": "6a6f70988dfd7b3cc44b3723",
-          "_tpl": "6499849fc93611967b034949",
-          "parentId": "6a344c30d089293630a34806",
-          "slotId": "FirstPrimaryWeapon",
-          "upd": {
-            "Repairable": {
-              "Durability": 60.72999,
-              "MaxDurability": 69.39
-            },
-            "FireMode": {
-              "FireMode": "fullauto"
-            },
-            "Foldable": {
-              "Folded": false
-            }
-          }
-        },
-        {
-          "_id": "6a6f70988dfd7b3cc44b3724",
-          "_tpl": "649ec107961514b22506b10c",
-          "parentId": "6a6f70988dfd7b3cc44b3723",
-          "slotId": "mod_gas_block"
-        },
-        {
-          "_id": "6a6f730b8dfd7b3cc44b9e1c",
-          "_tpl": "64c196ad26a15b84aa07132f",
-          "parentId": "6a6f70988dfd7b3cc44b3723",
-          "slotId": "mod_muzzle"
-        },
-        {
-          "_id": "6a6f73098dfd7b3cc44b9e1b",
-          "_tpl": "6087e663132d4d12c81fd96b",
-          "parentId": "6a6f70988dfd7b3cc44b3723",
-          "slotId": "mod_pistol_grip"
-        },
-        {
-          "_id": "6a6f70988dfd7b3cc44b3729",
-          "_tpl": "649ec2f3961514b22506b111",
-          "parentId": "6a6f70988dfd7b3cc44b3723",
-          "slotId": "mod_reciever"
-        },
-        {
-          "_id": "6a6ef08eff104b525c709c71",
-          "_tpl": "558022b54bdc2dac148b458d",
-          "parentId": "6a6f70988dfd7b3cc44b3729",
-          "slotId": "mod_scope",
-          "upd": {
-            "Sight": {
-              "ScopesCurrentCalibPointIndexes": [
-                0
-              ],
-              "ScopesSelectedModes": [
-                0
-              ],
-              "SelectedScope": 0,
-              "ScopeZoomValue": 0
-            }
-          }
-        },
-        {
-          "_id": "6a6f70988dfd7b3cc44b372a",
-          "_tpl": "649ec2da59cbb3c813042dca",
-          "parentId": "6a6f70988dfd7b3cc44b3729",
-          "slotId": "mod_sight_rear",
-          "upd": {
-            "Sight": {
-              "ScopesCurrentCalibPointIndexes": [
-                0
-              ],
-              "ScopesSelectedModes": [
-                0
-              ],
-              "SelectedScope": 0,
-              "ScopeZoomValue": 0
-            }
-          }
-        },
-        {
-          "_id": "6a6f70988dfd7b3cc44b372b",
-          "_tpl": "649ec2cec93611967b03495e",
-          "parentId": "6a6f70988dfd7b3cc44b372a",
-          "slotId": "mod_sight_rear",
-          "upd": {
-            "Sight": {
-              "ScopesCurrentCalibPointIndexes": [
-                0
-              ],
-              "ScopesSelectedModes": [
-                0
-              ],
-              "SelectedScope": 0,
-              "ScopeZoomValue": 0
-            }
-          }
-        },
-        {
-          "_id": "6a6f70988dfd7b3cc44b372d",
-          "_tpl": "649ec87d8007560a9001ab36",
-          "parentId": "6a6f70988dfd7b3cc44b3723",
-          "slotId": "mod_stock_001"
-        },
-        {
-          "_id": "6a6f73058dfd7b3cc44b9e1a",
-          "_tpl": "6516e971a3d4c6497930b450",
-          "parentId": "6a6f70988dfd7b3cc44b372d",
-          "slotId": "mod_stock"
-        },
-        {
-          "_id": "6a6f70988dfd7b3cc44b3726",
-          "_tpl": "649ec127c93611967b034957",
-          "parentId": "6a6f70988dfd7b3cc44b3723",
-          "slotId": "mod_handguard"
-        },
-        {
-          "_id": "6a6f70988dfd7b3cc44b3727",
-          "_tpl": "5beecbb80db834001d2c465e",
-          "parentId": "6a6f70988dfd7b3cc44b3726",
-          "slotId": "mod_mount_001"
-        },
-        {
-          "_id": "6a6ef08eff104b525c709c77",
-          "_tpl": "5b057b4f5acfc4771e1bd3e9",
-          "parentId": "6a6f70988dfd7b3cc44b3726",
-          "slotId": "mod_foregrip"
-        },
-        {
-          "_id": "6a6ef08fff104b525c709cc3",
-          "_tpl": "67a9e9d04fb4a4a8a00d2826",
-          "parentId": "6a344c30d089293630a34806",
-          "slotId": "FaceCover"
-        },
-        {
-          "_id": "6a6ef08fff104b525c709c9e",
-          "_tpl": "65709d2d21b9f815e208ff95",
-          "parentId": "6a344c30d089293630a34806",
-          "slotId": "Headwear"
-        },
-        {
-          "_id": "6a6ef08fff104b525c709ca0",
-          "_tpl": "657f9eb7e9433140ad0baf86",
-          "parentId": "6a6ef08fff104b525c709c9e",
-          "slotId": "Helmet_top",
-          "upd": {
-            "Repairable": {
-              "Durability": 33.8961563,
-              "MaxDurability": 36
-            }
-          }
-        },
-        {
-          "_id": "6a6ef08fff104b525c709ca1",
-          "_tpl": "657f9ef6c6679fefb3051e1f",
-          "parentId": "6a6ef08fff104b525c709c9e",
-          "slotId": "Helmet_back",
-          "upd": {
-            "Repairable": {
-              "Durability": 36,
-              "MaxDurability": 36
-            }
-          }
-        },
-        {
-          "_id": "6a6ef08eff104b525c709c83",
-          "_tpl": "628b9784bcf6e2659e09b8a2",
-          "parentId": "6a344c30d089293630a34806",
-          "slotId": "TacticalVest"
-        },
-        {
-          "_id": "6a6ef08eff104b525c709c84",
-          "_tpl": "656fae5f7c2d57afe200c0d7",
-          "parentId": "6a6ef08eff104b525c709c83",
-          "slotId": "Front_plate",
-          "upd": {
-            "Repairable": {
-              "Durability": 22.4783916,
-              "MaxDurability": 40.86255
-            }
-          }
-        },
-        {
-          "_id": "6a6ef08eff104b525c709c85",
-          "_tpl": "656fac30c6baea13cd07e10c",
-          "parentId": "6a6ef08eff104b525c709c83",
-          "slotId": "Back_plate",
-          "upd": {
-            "Repairable": {
-              "Durability": 31.66677,
-              "MaxDurability": 32.66677
-            }
-          }
-        },
-        {
-          "_id": "6a6ef08eff104b525c709c86",
-          "_tpl": "6557458f83942d705f0c4962",
-          "parentId": "6a6ef08eff104b525c709c83",
-          "slotId": "Left_side_plate",
-          "upd": {
-            "Repairable": {
-              "Durability": 0,
-              "MaxDurability": 13.00069
-            }
-          }
-        },
-        {
-          "_id": "6a6ef08eff104b525c709c87",
-          "_tpl": "6557458f83942d705f0c4962",
-          "parentId": "6a6ef08eff104b525c709c83",
-          "slotId": "Right_side_plate",
-          "upd": {
-            "Repairable": {
-              "Durability": 6.391835,
-              "MaxDurability": 10.95488
-            }
-          }
-        },
-        {
-          "_id": "6a6f732e8dfd7b3cc44b9e1d",
-          "_tpl": "5bed61680db834001d2c45ab",
-          "parentId": "6a6ef08eff104b525c709c83",
-          "slotId": "1",
-          "location": {
-            "x": 0,
-            "y": 0,
-            "r": "Horizontal"
-          }
-        },
-        {
-          "_id": "6a6f732e8dfd7b3cc44b9e1e",
-          "_tpl": "5bed61680db834001d2c45ab",
-          "parentId": "6a6ef08eff104b525c709c83",
-          "slotId": "2",
-          "location": {
-            "x": 0,
-            "y": 0,
-            "r": "Horizontal"
-          }
-        },
-        {
-          "_id": "6a6f732e8dfd7b3cc44b9e1f",
-          "_tpl": "5bed61680db834001d2c45ab",
-          "parentId": "6a6ef08eff104b525c709c83",
-          "slotId": "3",
-          "location": {
-            "x": 0,
-            "y": 0,
-            "r": "Horizontal"
-          }
-        },
-        {
-          "_id": "6a6f70988dfd7b3cc44b372c",
-          "_tpl": "649ec30cb013f04a700e60fb",
-          "parentId": "6a6ef08eff104b525c709c83",
-          "slotId": "4",
-          "location": {
-            "x": 0,
-            "y": 0,
-            "r": "Horizontal"
-          }
-        },
-        {
-          "_id": "6a6ef08eff104b525c709c6a",
-          "_tpl": "618cfae774bb2d036a049e7c",
-          "parentId": "6a344c30d089293630a34806",
-          "slotId": "Backpack"
-        },
-        {
-          "_id": "6a6ef08fff104b525c709cae",
-          "_tpl": "5645bcc04bdc2d363b8b4572",
-          "parentId": "6a344c30d089293630a34806",
-          "slotId": "Earpiece"
-        }
-      ]
-    },
-    {
-      "scheduledTime": 1785890653,
-      "traderId": "54cb57776803fa99248b456e",
-      "maxStorageTime": 518400,
-      "systemData": {
-        "date": "04.08.2026",
-        "time": "13:20",
-        "location": "bigmap"
-      },
-      "messageType": 8,
-      "messageTemplateId": "58fe0e3486f77471f772c3f2 3",
-      "items": [
-        {
-          "_id": "6a6652eb864b0025f07d9c91",
-          "_tpl": "588892092459774ac91d4b11",
-          "parentId": "6a344c30d089293630a34806",
-          "slotId": "FirstPrimaryWeapon",
-          "upd": {
-            "Repairable": {
-              "Durability": 94.96754,
-              "MaxDurability": 100
-            },
-            "FireMode": {
-              "FireMode": "single"
-            },
-            "Foldable": {
-              "Folded": false
-            }
-          }
-        },
-        {
-          "_id": "6a66532c864b0025f07daaa4",
-          "_tpl": "5888988e24597752fe43a6fa",
-          "parentId": "6a6652eb864b0025f07d9c91",
-          "slotId": "mod_magazine"
-        },
-        {
-          "_id": "6a665308864b0025f07d9ca0",
-          "_tpl": "5888945a2459774bf43ba385",
-          "parentId": "6a6652eb864b0025f07d9c91",
-          "slotId": "mod_barrel"
-        },
-        {
-          "_id": "6a66530d864b0025f07d9ca1",
-          "_tpl": "58889c7324597754281f9439",
-          "parentId": "6a665308864b0025f07d9ca0",
-          "slotId": "mod_muzzle"
-        },
-        {
-          "_id": "6a6652eb864b0025f07d9c96",
-          "_tpl": "57c55f172459772d27602381",
-          "parentId": "6a6652eb864b0025f07d9c91",
-          "slotId": "mod_pistol_grip"
-        },
-        {
-          "_id": "6a6652eb864b0025f07d9c97",
-          "_tpl": "58889d0c2459775bc215d981",
-          "parentId": "6a6652eb864b0025f07d9c91",
-          "slotId": "mod_stock"
-        },
-        {
-          "_id": "6a6ef08fff104b525c709ca2",
-          "_tpl": "66b6296d7994640992013b17",
-          "parentId": "6a344c30d089293630a34806",
-          "slotId": "TacticalVest"
-        },
-        {
-          "_id": "6a6ef08fff104b525c709ca3",
-          "_tpl": "656fa0fb498d1b7e3e071d9c",
-          "parentId": "6a6ef08fff104b525c709ca2",
-          "slotId": "Front_plate",
-          "upd": {
-            "Repairable": {
-              "Durability": 0,
-              "MaxDurability": 45
-            }
-          }
-        },
-        {
-          "_id": "6a6ef08fff104b525c709ca4",
-          "_tpl": "656fa0fb498d1b7e3e071d9c",
-          "parentId": "6a6ef08fff104b525c709ca2",
-          "slotId": "Back_plate",
-          "upd": {
-            "Repairable": {
-              "Durability": 29.2441845,
-              "MaxDurability": 45
-            }
-          }
-        },
-        {
-          "_id": "6a6ef08fff104b525c709ca5",
-          "_tpl": "66b884f4c5d72b02774886eb",
-          "parentId": "6a6ef08fff104b525c709ca2",
-          "slotId": "Soft_armor_front",
-          "upd": {
-            "Repairable": {
-              "Durability": 12.5988255,
-              "MaxDurability": 38
-            }
-          }
-        },
-        {
-          "_id": "6a6ef08fff104b525c709ca6",
-          "_tpl": "66b884eaacff495a29492849",
-          "parentId": "6a6ef08fff104b525c709ca2",
-          "slotId": "Soft_armor_back",
-          "upd": {
-            "Repairable": {
-              "Durability": 38,
-              "MaxDurability": 38
-            }
-          }
-        },
-        {
-          "_id": "6a6ef08fff104b525c709ca7",
-          "_tpl": "66b8851678bbc0200425fa03",
-          "parentId": "6a6ef08fff104b525c709ca2",
-          "slotId": "Soft_armor_left",
-          "upd": {
-            "Repairable": {
-              "Durability": 0,
-              "MaxDurability": 8
-            }
-          }
-        },
-        {
-          "_id": "6a6ef08fff104b525c709ca8",
-          "_tpl": "66b88521a7f72d197e70be3b",
-          "parentId": "6a6ef08fff104b525c709ca2",
-          "slotId": "soft_armor_right",
-          "upd": {
-            "Repairable": {
-              "Durability": 8,
-              "MaxDurability": 8
-            }
-          }
-        },
-        {
-          "_id": "6a6ef08fff104b525c709ca9",
-          "_tpl": "66b884fd7994640992013b37",
-          "parentId": "6a6ef08fff104b525c709ca2",
-          "slotId": "Groin",
-          "upd": {
-            "Repairable": {
-              "Durability": 0,
-              "MaxDurability": 16
-            }
-          }
-        },
-        {
-          "_id": "6a6652eb864b0025f07d9c92",
-          "_tpl": "5888988e24597752fe43a6fa",
-          "parentId": "6a6ef08fff104b525c709ca2",
-          "slotId": "1",
-          "location": {
-            "x": 0,
-            "y": 0,
-            "r": "Horizontal"
-          }
-        },
-        {
-          "_id": "6a66532c864b0025f07daaa3",
-          "_tpl": "5888988e24597752fe43a6fa",
-          "parentId": "6a6ef08fff104b525c709ca2",
-          "slotId": "1",
-          "location": {
-            "x": 1,
-            "y": 0,
-            "r": "Horizontal"
-          }
-        },
-        {
-          "_id": "6a66532c864b0025f07daaa5",
-          "_tpl": "5888988e24597752fe43a6fa",
-          "parentId": "6a6ef08fff104b525c709ca2",
-          "slotId": "2",
-          "location": {
-            "x": 0,
-            "y": 0,
-            "r": "Horizontal"
-          }
-        },
-        {
-          "_id": "6a66532c864b0025f07daaa6",
-          "_tpl": "5888988e24597752fe43a6fa",
-          "parentId": "6a6ef08fff104b525c709ca2",
-          "slotId": "2",
-          "location": {
-            "x": 1,
-            "y": 0,
-            "r": "Horizontal"
-          }
-        },
-        {
-          "_id": "6a705297bb0ab8319c8d11e9",
-          "_tpl": "619cf0335771dd3c390269ae",
-          "parentId": "6a344c30d089293630a34806",
-          "slotId": "Backpack"
-        }
-      ]
-    }
-  ],
+  "insurance": [],
   "btrDelivery": [],
   "traderPurchases": {
     "54cb57776803fa99248b456e": {
+      "686e34706c2a18ed6b0eb40c": {
+        "count": 1,
+        "purchaseTimestamp": 1785912832
+      },
       "686e34706c2a18ed6b0eb409": {
         "count": 2,
-        "purchaseTimestamp": 1785848716
-      },
-      "686e34716c2a18ed6b0eb478": {
-        "count": 3,
-        "purchaseTimestamp": 1785848756
+        "purchaseTimestamp": 1785912826
       }
     },
     "54cb50c76803fa8b248b4571": {},
-    "5c0647fdd443bc2504c2d371": {
-      "686e342c6c2a18ed6b0e97b8": {
-        "count": 120,
-        "purchaseTimestamp": 1785850028
-      }
-    },
+    "5c0647fdd443bc2504c2d371": {},
     "5935c25fb3acc3127c3d8cd9": {},
     "6617beeaa9cfa777ca915b7c": {},
     "58330581ace78e27b8b10cee": {},
-    "5a7c2eca46aef81a7ca2145d": {
-      "686e343b6c2a18ed6b0e9d29": {
-        "count": 12,
-        "purchaseTimestamp": 1785850079
-      }
-    },
+    "5a7c2eca46aef81a7ca2145d": {},
     "5ac3b934156ae10c4430e83c": {}
   },
   "friends": [],
