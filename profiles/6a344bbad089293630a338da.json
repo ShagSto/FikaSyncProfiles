@@ -116,7 +116,7 @@
             "Effects": {}
           }
         },
-        "UpdateTime": 1786047516
+        "UpdateTime": 1786090560
       },
       "Inventory": {
         "items": [
@@ -18848,11 +18848,11 @@
           {
             "_id": "6a7441949163584fb8d55fd0",
             "_tpl": "64d4b23dc1b37504b41ac2b6",
-            "parentId": "6613e1cf291a2e76b0026acc",
-            "slotId": "hideout",
+            "parentId": "6a743c269163584fb8d416d0",
+            "slotId": "main",
             "location": {
-              "x": 3,
-              "y": 11,
+              "x": 0,
+              "y": 0,
               "r": "Horizontal"
             },
             "upd": {
@@ -21758,6 +21758,17 @@
             "upd": {
               "StackObjectsCount": 1,
               "SpawnedInSession": false
+            }
+          },
+          {
+            "_id": "6a74ebec0ec46327ec9bbe6e",
+            "_tpl": "5d5fca1ea4b93635fd598c07",
+            "parentId": "6613e1cf291a2e76b0026acc",
+            "slotId": "hideout",
+            "location": {
+              "x": 7,
+              "y": 4,
+              "r": "Horizontal"
             }
           }
         ],
@@ -27971,18 +27982,6 @@
           "value": 7,
           "sourceId": "6663149cfd5ca9577902e037"
         },
-        "6a735af896ad180b887eae3f": {
-          "id": "6a735af896ad180b887eae3f",
-          "type": "HandoverItem",
-          "value": 0,
-          "sourceId": "6a735af896ad180b887eae3d"
-        },
-        "6a735af896ad180b887eae40": {
-          "id": "6a735af896ad180b887eae40",
-          "type": "HandoverItem",
-          "value": 0,
-          "sourceId": "6a735af896ad180b887eae3d"
-        },
         "6a72dc8167c4132890e9f84c": {
           "id": "6a72dc8167c4132890e9f84c",
           "type": "CounterCreator",
@@ -28981,7 +28980,7 @@
         "HideoutCounters": null,
         "Seed": "313eaaede7d29811071760150fb397f7",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1786048011,
+        "sptUpdateLastRunTimestamp": 1786091154,
         "Customization": {
           "Wall": "675467bb5b7ebafefd0ebc2e",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -45951,7 +45950,7 @@
       "_id": "54cb50c76803fa8b248b4571"
     },
     "54cb57776803fa99248b456e": {
-      "attachmentsNew": 5,
+      "attachmentsNew": 6,
       "new": 0,
       "type": 2,
       "pinned": true,
@@ -48251,10 +48250,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a6dbc50341be7018c9d415d",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 518400,
           "systemData": {
             "date": "31.07.2026",
@@ -49200,12 +49196,6 @@
                 "_tpl": "5645bcc04bdc2d363b8b4572",
                 "parentId": "6a74ebec0ec46327ec9bbe4c",
                 "slotId": "main"
-              },
-              {
-                "_id": "6a74ebec0ec46327ec9bbe6e",
-                "_tpl": "5d5fca1ea4b93635fd598c07",
-                "parentId": "6a74ebec0ec46327ec9bbe4c",
-                "slotId": "main"
               }
             ]
           },
@@ -49595,6 +49585,45 @@
           "systemData": {
             "date": "06.08.2026",
             "time": "12:26",
+            "location": "woods"
+          }
+        },
+        {
+          "_id": "6a758ecbfd585f42f4d8a28a",
+          "uid": "54cb57776803fa99248b456e",
+          "type": 8,
+          "dt": 1786089163,
+          "templateId": "58fe0e3486f77471f772c3f2 3",
+          "text": "",
+          "hasRewards": true,
+          "rewardCollected": false,
+          "items": {
+            "stash": "6a758ecbfd585f42f4d8a289",
+            "data": [
+              {
+                "_id": "6a758ecbfd585f42f4d8a28b",
+                "_tpl": "572b7adb24597762ae139821",
+                "parentId": "6a758ecbfd585f42f4d8a289",
+                "slotId": "main"
+              },
+              {
+                "_id": "6a758ecbfd585f42f4d8a28c",
+                "_tpl": "5d25a6538abbc306c62e630d",
+                "parentId": "6a758ecbfd585f42f4d8a289",
+                "slotId": "main"
+              },
+              {
+                "_id": "6a758ecbfd585f42f4d8a28d",
+                "_tpl": "5d25a6538abbc306c62e630d",
+                "parentId": "6a758ecbfd585f42f4d8a289",
+                "slotId": "main"
+              }
+            ]
+          },
+          "maxStorageTime": 518400,
+          "systemData": {
+            "date": "06.08.2026",
+            "time": "12:58",
             "location": "woods"
           }
         }
@@ -51524,10 +51553,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a71aba93b369647708d5187",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -54803,49 +54829,10 @@
     "extraRepeatableQuests": {}
   },
   "inraid": {},
-  "insurance": [
-    {
-      "scheduledTime": 1786070236,
-      "traderId": "54cb57776803fa99248b456e",
-      "maxStorageTime": 518400,
-      "systemData": {
-        "date": "06.08.2026",
-        "time": "12:58",
-        "location": "woods"
-      },
-      "messageType": 8,
-      "messageTemplateId": "58fe0e3486f77471f772c3f2 3",
-      "items": [
-        {
-          "_id": "6a63691323179d3d34e3b639",
-          "_tpl": "572b7adb24597762ae139821"
-        },
-        {
-          "_id": "6a71e8df8f110a5578c848c6",
-          "_tpl": "5d25a6538abbc306c62e630d"
-        },
-        {
-          "_id": "6a71e8df8f110a5578c848c8",
-          "_tpl": "5d25a6538abbc306c62e630d",
-          "parentId": "6a7481b36b70b02d18492ca1",
-          "slotId": "3",
-          "location": {
-            "x": 0,
-            "y": 0,
-            "r": "Horizontal"
-          }
-        }
-      ]
-    }
-  ],
+  "insurance": [],
   "btrDelivery": [],
   "traderPurchases": {
-    "54cb57776803fa99248b456e": {
-      "686e34706c2a18ed6b0eb409": {
-        "count": 2,
-        "purchaseTimestamp": 1786047723
-      }
-    },
+    "54cb57776803fa99248b456e": {},
     "54cb50c76803fa8b248b4571": {},
     "5c0647fdd443bc2504c2d371": {},
     "5935c25fb3acc3127c3d8cd9": {},
